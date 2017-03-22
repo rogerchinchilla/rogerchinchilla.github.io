@@ -1,0 +1,186 @@
+/*
+    Theme Responsive Design
+*/
+
+@media (max-width: 1024px) {
+	.hero_content_wrap,
+    .hero_section{
+        height: 550px;
+    }
+    h1{
+        font-size: 45px;
+    }
+}
+
+/* ---- Start of max-width 992px CSS ---- */
+@media (max-width: 992px) {
+    ul.nav > li > a {
+        font-size: 12px;
+        line-height: 70px;
+        padding: 0 10px;
+    }
+	.section_heading p br{
+		display: none;
+	}
+    .fs_btn{
+		line-height: 35px;
+		padding: 0 15px;
+		font-size: 14px;
+	}
+	.hero_content_wrap,
+    .hero_section{
+        height: 480px;
+    }
+    .feature_heading{
+        padding: 138px 0;
+    }
+    .feature_items {
+        padding: 0;
+    }
+    .fact_content{
+        text-align: center;
+    }
+    .fact_content i{
+        float: none;
+        margin: 0 0 10px;
+    }
+    .screen_wrap{
+        width: 100%;
+    }
+    .screen_wrap .swiper-container{
+        margin-left: -3px;
+    }
+    .dl_content {
+        padding: 25px 0;
+    }
+    .dl_moc .dl_moc_1{
+        width: 85%;
+    }
+    .dl_moc .dl_moc_2 {
+        width: 80%;
+    }
+
+}
+/* ---- End of max-width 992px CSS ---- */
+
+
+/* ---- Start of min-width 480px and max-width 768px CSS ---- */
+@media all and (min-width: 480px) and (max-width: 768px) {
+	
+}
+/* ---- End of min-width 480px and max-width 768px CSS ---- */
+
+
+/* ---- Start of max-width 767px CSS ---- */
+@media all and (max-width: 767px) {
+    body, p{
+        font-size: 12px;
+        line-height: 22px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 16px;
+    }
+	br{
+		display: none;
+	}
+    .padding{
+        padding: 60px 0;
+    }
+    .xs-padding{
+        padding: 15px;
+    }
+    .mb-40{
+        margin-bottom: 35px;
+    }
+	.navbar-header {
+		padding: 5px 0;
+	}
+    .navbar-header .brand {
+        display: block;
+        padding: 13px 25px;
+    }
+    .navbar-collapse {
+        background-color: #111;
+        border-top: medium none;
+        box-shadow: none;
+        margin-top: 0px;
+        overflow-x: visible;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    ul.nav{
+        margin: 0;
+        overflow: hidden;
+    }
+    ul.nav > li{
+        display: block;
+        margin: 0;
+    }
+    ul.nav > li > a{
+        display: block;
+        font-size: 14px;
+        color: #fff;
+        line-height: 45px;
+        padding: 0 30px;
+    }
+    ul.nav > li > a:hover,
+    ul.nav > li.active > a {
+        background-color: #49176d;
+        color: #fff;
+    }
+	.hero_content_wrap,
+    .hero_section{
+        height: 380px;
+    }
+    .feature_heading{
+        padding: 30PX 0;
+        text-align: center;
+    }
+    .fact_heading{
+        text-align: center;
+    }
+    .screen_wrap {
+        width: 285px;
+    }
+    .screen_wrap .swiper-container{
+        margin-left: 14px;
+    }
+    .dl_content{
+        text-align: center;
+    }
+	
+}
+/* ---- End of max-width 767px CSS ---- */
+
+
+/* ---- Start of max-width 480px CSS ---- */
+@media all and (max-width: 480px) {
+    .pricing_tables .col-xs-6,
+    .funfact_section .col-xs-6,
+	.promo_section .col-xs-6{
+        float: none;
+        width: 100%;
+    }
+
+}
+/* ---- End of max-width 480px CSS ---- */
+
+
+/* ---- Start of max-width 420px CSS ---- */
+@media all and (max-width: 420px) {
+
+}
+/* ---- End of max-width 420px CSS ---- */
+
+
+/* ---- Start of max-width 380px CSS ---- */
+@media all and (max-width: 380px) {
+	
+}
+/* ---- End of max-width 380px CSS ---- */
