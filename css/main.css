@@ -312,12 +312,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover{
 .navbar-header {
     padding: 17px 0;
 }
-.navbar-header .brand{
-	font-size: 25px;
-	color: #fff;
-	font-family: 'Poppins', sans-serif;
-	letter-spacing: -1px;
-	font-weight: 600;
+.navbar-header .brand{	
 }
 .navbar-fixed-top .navbar-header .brand{
 	color: #282828;

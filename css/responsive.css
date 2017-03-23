@@ -131,8 +131,8 @@
     }
     ul.nav > li > a:hover,
     ul.nav > li.active > a {
-        background-color: #49176d;
-        color: #fff;
+        background-color: #fff;
+        color: #000;
     }
 	.hero_content_wrap,
     .hero_section{
