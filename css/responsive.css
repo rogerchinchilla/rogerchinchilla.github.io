@@ -145,14 +145,14 @@
     .fact_heading{
         text-align: center;
     }
-    .screen_wrap {
-        width: 285px;
-    }
     .screen_wrap .swiper-container{
         margin-left: 14px;
     }
     .dl_content{
         text-align: center;
+    }
+    .subscribe_form .submit {
+    padding: 0 0 ;
     }
 	
 }

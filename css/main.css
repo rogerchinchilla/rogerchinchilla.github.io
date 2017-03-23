@@ -184,7 +184,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover{
 }
 /* Button Style */
 .btn_group a{
-    margin: 0 5px;
+    margin: 5px 5px;
 }
 .appsy_btn{
 	background-color: #00bce4;
