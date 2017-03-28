@@ -145,6 +145,9 @@
     .fact_heading{
         text-align: center;
     }
+    .screen_wrap {
+        width: 285px;
+    }
     .screen_wrap .swiper-container{
         margin-left: 14px;
     }
