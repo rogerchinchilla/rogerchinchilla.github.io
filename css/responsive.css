@@ -137,6 +137,8 @@
 	.hero_content_wrap,
     .hero_section{
         height: 380px;
+        background-position-y: -65px;
+        background-position-x: -350px;
     }
     .feature_heading{
         padding: 30PX 0;
