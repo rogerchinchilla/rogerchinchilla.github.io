@@ -204,21 +204,12 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover{
 	color: #282828;
 }
 .dl_btn {
-    border: 2px solid #fff;
     display: inline-block;
     height: 60px;
     color: #fff;
-    padding: 10px 25px 9px 50px;
+    padding: 10px 125px 9px 50px;
     position: relative;
     transition: all 0.5s ease-in-out;
-}
-.dl_btn:hover{
-    background-color: #fff;
-    color: #282828;
-    transition: all 0.5s ease-in-out;
-}
-.dl_btn:hover i{
-    color: #282828;
 }
 .dl_btn i {
     color: #fff;
