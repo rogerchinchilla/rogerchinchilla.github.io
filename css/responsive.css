@@ -137,6 +137,7 @@
 	.hero_content_wrap,
     .hero_section{
         height: 380px;
+        background-attachment: scroll;
     }
     .feature_heading{
         padding: 30PX 0;
@@ -169,14 +170,20 @@
 	.promo_section .col-xs-6{
         float: none;
         width: 100%;
+        
     }
-
+    .hero_section{
+        background-attachment: scroll;
+    }
 }
 /* ---- End of max-width 480px CSS ---- */
 
 
 /* ---- Start of max-width 420px CSS ---- */
 @media all and (max-width: 420px) {
+    .hero_section{
+        background-attachment: scroll;
+    }
 
 }
 /* ---- End of max-width 420px CSS ---- */
@@ -184,6 +191,9 @@
 
 /* ---- Start of max-width 380px CSS ---- */
 @media all and (max-width: 380px) {
+    .hero_section{
+        background-attachment: scroll;
+    }
 	
 }
 /* ---- End of max-width 380px CSS ---- */

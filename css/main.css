@@ -358,7 +358,7 @@ ul.nav > li.active > a{
 .hero_section{
     background-image: url(../img/hero-bg.jpg);
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     background-position: center center;
     -webkit-background-size: cover;
     background-size: cover;
