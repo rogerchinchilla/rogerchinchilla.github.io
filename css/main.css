@@ -664,7 +664,7 @@ ul.nav > li.active > a{
    Download Section
    ========================================================================== */
 .dl_section{
-    background-image: url(../img/dl-bg.jpg);
+    background-image: url(../img/dl-bg.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
