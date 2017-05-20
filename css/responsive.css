@@ -76,7 +76,6 @@
     body, p{
         font-size: 12px;
         line-height: 22px;
-        text-align: center;
     }
     h1{
         font-size: 30px;
@@ -184,6 +183,7 @@
 @media all and (max-width: 420px) {
     .hero_section{
         background-attachment: scroll;
+        text-align: center;
     }
 
 }
